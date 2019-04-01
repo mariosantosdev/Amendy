@@ -3,7 +3,7 @@ Para criar trabalhos escolares.
 
 ## Requeriments
 
-`pip install colorama` - Para usar cores.
+`pip install colorama` - Para usar cores._
 `pip install wikipedia` - Para pesquisar o conteudo.
 `pip install pybrackets` - Para limpar o conteudo do wikipedia.
 `pip install pyttsx3` - Para a Amendy falar o conteudo.
