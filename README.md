@@ -1,7 +1,7 @@
 # Amendy (pt-BR)
 Para criar trabalhos escolares.
 
-## Serie (Tutorial)
+## Tutorial
 Youtube: https://bit.ly/2UhmSiR
 
 ## Requeriments
