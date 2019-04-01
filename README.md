@@ -1,6 +1,9 @@
 # Amendy (pt-BR)
 Para criar trabalhos escolares.
 
+## Serie (Tutorial)
+Youtube: https://bit.ly/2UhmSiR
+
 ## Requeriments
 
 `pip install colorama` - Para usar cores. <br />
