@@ -2,7 +2,7 @@
 Para criar trabalhos escolares.
 
 ## Tutorial
-Youtube: https://bit.ly/2UhmSiR
+Youtube: https://bit.ly/2OW2a2L
 
 ## Requeriments
 
