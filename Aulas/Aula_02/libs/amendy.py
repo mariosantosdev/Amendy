@@ -4,12 +4,12 @@ from docx.shared import Inches
 
 def systemDetect(): # Verificar SO
     if(name == 'nt'):
-        return 'win'
+        return('win')
     else:
-        return 'other'
+        return('other')
 
 def clearTerminal(): # Limpar terminal
-    if(systemDetect == 'win'):
+    if(systemDetect() == 'win'):
         system('cls')
     else:
         system('clear')
